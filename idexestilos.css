@@ -1,0 +1,14 @@
+body {
+    background-color: blue;
+}
+
+div {
+    background-color: green;
+    color: aqua;
+    text-align: center;
+}
+
+.rimg {
+    position: relative;
+    left: 50px;
+}
